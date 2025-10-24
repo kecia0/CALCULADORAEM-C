@@ -79,7 +79,7 @@ Este projeto foi desenvolvido por um grupo de estudantes como parte de um trabal
 
 | Nome Completo | Função Principal | Repositório GitHub |
 | :--- | :--- | :--- |
-| **[kecia lidia pinheiro passos ]** | [ Desenvolvedor Principal] | [https://github.com/usuario1] |
+| **[kecia lidia pinheiro passos ]** | [ Desenvolvedor Principal] | [https://github.com/kecia0/CALCULADORAEM-C.git] |
 | **[Amanda Freitas Rosencrantz Aiello]** | [Desenvolvedor Principal] | [https://github.com/usuario2] |
 | 
 
